@@ -5,7 +5,7 @@ This program is a full-fledged calculator that allows you to make
 various mathematical calculations in a short time. 
 (The program is written in the Python)
 
-=================================================================
+-----------------------------------------------------------------
 
 RUS
 Данная программа представляет из себя полноценный калькулятор, 
